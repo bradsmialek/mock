@@ -3,4 +3,4 @@ git walkthrough
 
 sgknsdlkgnsldknlsd
 
-changes within vs code by us on the same line
+changes within github by collabertaor
