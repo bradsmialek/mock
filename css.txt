@@ -1,0 +1,51 @@
+What do you know about CSS?
+
+file
+styles.css
+
+cascading style sheets
+water fall  -  water falls from top to bottom
+
+header {
+
+}
+
+// you can target several elements in a group with a class
+.banana {
+    background-color: red;
+}
+
+<article id="name"></article>
+<article class="banana"></article>
+<article class="banana"></article>
+
+// use case -  only want to target one specific element  with id
+#highhat {
+    color: blue;
+}
+<p></p>
+<p></p>
+<p id="highhat" >title</p>
+
+// ruleset
+.banana {
+    background-color: red;   //   property: value;
+}
+
+//box model
+
+content - text
+padding - clears area around the content. Is transparent
+border - Around the content and padding
+margin - around the border. Is transparent.
+
+what can we use for colors
+rgb(red, green, blue)      rgb(50, 250, 10)
+blue
+hex #FF5462
+hsl(hue, saturation, lightness)
+
+* {
+
+}
+universal selector
