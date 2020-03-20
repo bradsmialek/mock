@@ -1,0 +1,29 @@
+What do we already know about functions?
+
+why?
+
+Reusability
+Control
+stability of our code
+security
+makes code easier to debugg
+easy to share - libraries 
+
+expect a function to do one task really well
+
+input, process, output
+
+function lindsey(a, b){
+    code block
+    return a + b;
+};
+code inside a function is encapsulation
+
+scope  -  global, function or local
+
+lindsey(4, 5); 
+
+var hat = 5;
+
+console.log(hat);
+
